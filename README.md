@@ -13,7 +13,7 @@ Tomiwa Oladunjoye - 100741743<br>
 
 This project is a website about car details and information. It retrives information from an API by using JSON/REST. The database is made by WAMP software. It is already exported as "otuniversity.sql" so you can import it into any server to use the database. You need to download the project and then use a server like WAMP to run it. You can start from "Homepage.php" and then register into the website by going to registration tab. Then, you can retrive the car information and details and save them and then retrive the saved information later on your account.
 
-## **Different views of the website**'
+## **Different views of the website**
 
 ![image](https://user-images.githubusercontent.com/72389295/143984106-0e3b88a0-d458-49e9-a9ef-87d108bab9fa.png)
 ![image](https://user-images.githubusercontent.com/72389295/143984132-807c6062-3a10-4993-8bf9-2496800de60f.png)
@@ -25,4 +25,8 @@ This project is a website about car details and information. It retrives informa
 ![image](https://user-images.githubusercontent.com/72389295/143984482-741fd7e9-25e8-47ea-9ff9-377a9c81ee6e.png)
 
 
-
+## **Different views of the Database**
+![image](https://user-images.githubusercontent.com/72389295/143984547-062dea8f-2128-45d7-918d-f0fcb4796fe4.png)
+![image](https://user-images.githubusercontent.com/72389295/143984590-62f29b0f-22cc-408e-b2ac-f9a9a206d2db.png)
+![image](https://user-images.githubusercontent.com/72389295/143984627-278bff28-6e60-4456-be92-ec4059ce1a85.png)
+![image](https://user-images.githubusercontent.com/72389295/143984752-03ba896e-a868-4d0d-bb14-5cdb2a78d012.png)
