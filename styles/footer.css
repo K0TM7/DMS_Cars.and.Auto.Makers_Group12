@@ -1,0 +1,41 @@
+
+.head {
+    display: flex;
+    border-radius: 25px;
+    margin: 5px;
+    background-color: #5B6770;
+}
+.logo{
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    
+    margin: 5px;
+}
+.footer_up{
+    float: left;
+    width: 30%;
+    border-radius: 25px;
+    background-color: #5B6770;    
+}
+.footer_up p{
+    color: white;
+}
+.footer_middle{
+    float: left;
+    width: 20%;
+    border-radius: 25px;
+    text-align: center;
+    background-color: rgb(156, 196, 124);
+
+}
+.footer_down{
+    float: left;
+    width: 30%;
+    border-radius: 25px;
+    background-color: cadetblue;
+}
+.footer_down p{
+    margin-left: 8px;
+    color: white;
+}
